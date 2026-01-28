@@ -37,7 +37,7 @@ Antes de começar, você precisará de:
 1. Clone o repositório:
 
 ```bash
-[git clone https://github.com/seu-usuario/nome-do-projeto.git](https://github.com/Luan-Felipe-R-Sanches/Anki-Ingles-Automator.git)
+git clone https://github.com/Luan-Felipe-R-Sanches/Anki-Ingles-Automator.git
 cd Anki-Ingles-Automator
 ```
 
