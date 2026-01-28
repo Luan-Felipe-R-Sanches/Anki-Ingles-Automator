@@ -5,7 +5,7 @@ import genanki
 from openai import OpenAI
 
 # ================= CONFIGURAÇÕES =================
-API_KEY = "SUA_NOVA_CHAVE_AQUI" 
+API_KEY = "SUA_CHAVE_AQUI" 
 PDF_PATH = "NOME_DO_SEU_ARQUIVO.pdf"
 NOME_DECK = "Inglês com OpenAI"
 ARQUIVO_SAIDA = "ingles_openai.apkg"
